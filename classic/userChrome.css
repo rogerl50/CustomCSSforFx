@@ -359,7 +359,7 @@
 /* @import "./css/tabs/tabs_below_navigation_toolbar_fx74.css"; /**/
 /* - Fx 74+ - macOS *****************************************************************************/
 /* @import "./css/tabs/tabs_below_navigation_toolbar_fx74_macOS.css"; /**/
-/* @import "./css/tabs/tabs_below_navigation_toolbar_fx74_macOS_default_tabs.css"; /**/
+@import "./css/tabs/tabs_below_navigation_toolbar_fx74_macOS_default_tabs.css"; /*Uncommented - RL*/
 
 /* - TABS BELOW MAIN CONTENT (tabs on bottom) - EXPERIMENTAL ************************************/
 /* [!] SUPPORT THREAD: https://github.com/aris-t2/customcssforfx/issues/33 **********************/
@@ -390,7 +390,7 @@
 
 /* TAB BACKGROUND COLORS for default/active/hovered/unloaded tabs and 'new tab' tab *************/
 /* edit target file to set own custom colors ****************************************************/
-/* @import "./config/custom_tab_color_settings.css"; /**/
+@import "./config/custom_tab_color_settings.css";  /*Uncommented - RL*/
 /* TAB TEXT colors/shadow/weight/style for default/active/hovered/unloaded tabs *****************/
 /* edit target file to set own custom colors ****************************************************/
 /* @import "./config/custom_tab_text_settings.css"; /**/
